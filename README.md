@@ -16,3 +16,7 @@ This is a simple react chatting application made with express backend and react 
 
 1. Run the following command `npm install`.
 2. Run the following command `npm start`.
+
+<h1> Video </h1>
+
+[![React Chat App](https://yt-embed.herokuapp.com/embed?v=h_N5K006JrU)](https://www.youtube.com/watch?v=h_N5K006JrU "React Chat App")
